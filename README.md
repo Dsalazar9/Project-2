@@ -1,2 +1,2 @@
 # :coffee: Bookmark cafe
-![image](https://user-images.githubusercontent.com/19554935/44621969-cab46b00-a87d-11e8-97a1-6406b4924fc5.png)
+![image](https://user-images.githubusercontent.com/19554935/44622062-2e8b6380-a87f-11e8-8e33-1af2de98793d.png)
