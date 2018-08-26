@@ -1,0 +1,27 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "bookmark cafe",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "sequelize-heroku": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsalazar9/Project-2.git"
+  },
+  "author": "Oscar Fuentes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dsalazar9/Project-2/issues"
+  },
+  "homepage": "https://github.com/Dsalazar9/Project-2#readme"
+}
