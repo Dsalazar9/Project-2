@@ -9,5 +9,6 @@
 | IE11, Edge| last version| last version| last version
 
 ![image](https://user-images.githubusercontent.com/19554935/44622062-2e8b6380-a87f-11e8-8e33-1af2de98793d.png)
+![image](https://user-images.githubusercontent.com/19554935/44681907-e8b1d500-aa0f-11e8-92fe-02f7f572d194.png)
 
 
