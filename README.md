@@ -8,7 +8,5 @@
 | --------- | --------- | --------- | --------- |
 | IE11, Edge| last version| last version| last version
 
-![image](https://user-images.githubusercontent.com/19554935/44741833-4efc2d80-aacc-11e8-9738-24bb0f9b4852.png)
+![image](https://user-images.githubusercontent.com/19554935/44741874-6dfabf80-aacc-11e8-9f25-5bc5796870d6.png)
 ![image](https://user-images.githubusercontent.com/19554935/44741676-caa9aa80-aacb-11e8-9a54-fbd87f5afe53.png)
-
-
