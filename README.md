@@ -1,4 +1,4 @@
-# :coffee: Bookmark cafe
+# ![image](https://user-images.githubusercontent.com/19554935/44741910-8cf95180-aacc-11e8-98eb-aa6417c9939c.png) Bookmark cafe
 [![Github commit merge status](https://img.shields.io/github/commit-status/badges/shields/master/5d4ab86b1b5ddfb3c4a70a70bd19932c52603b8c.svg)](https://github.com/Dsalazar9/Project-2)
 [![GitHub contributors](https://img.shields.io/github/contributors/Dsalazar9/Project-2.svg)](https://github.com/Dsalazar9/Project-2/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Dsalazar9/Project-2.svg)](https://github.com/Dsalazar9/Project-2/)
