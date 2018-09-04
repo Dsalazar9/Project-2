@@ -1,4 +1,5 @@
 var db = require("../models");
+var passport = require("../helpers/passport.js");
 
 module.exports = function (app) {
     app.post('/api/signup', function (req, res) {
