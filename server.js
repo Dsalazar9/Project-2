@@ -3,6 +3,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var session = require('express-session');
 const db = require("./models");
+
 // Config
 var passport = require('./helpers/passport');
 var secret = require('./config/keys');
