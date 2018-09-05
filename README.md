@@ -9,4 +9,4 @@
 | IE11, Edge| last version| last version| last version
 
 ![image](https://user-images.githubusercontent.com/19554935/44741971-ae5a3d80-aacc-11e8-9dfc-98b007f95520.png)
-![image](https://user-images.githubusercontent.com/19554935/44741676-caa9aa80-aacb-11e8-9a54-fbd87f5afe53.png)
+![image](https://user-images.githubusercontent.com/19554935/45066802-13460280-b08e-11e8-8fb2-19641c2e7cc4.png)
