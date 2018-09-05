@@ -109,12 +109,12 @@ img {
     margin-right: auto;
 }
 
-body {
+/* body {
     background-image: url("https://wallpapertag.com/wallpaper/full/4/c/1/591849-full-size-cafe-wallpaper-1920x1080.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-}
+} */
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
@@ -225,4 +225,23 @@ iPad 3
 
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
 /* Styles */
+}
+
+#video_wrapper video {
+    position: fixed;
+    top: 50%; left: 50%;
+    z-index: 1;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+
+#wrapper {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 995px;
+    z-index: 2;
 }
