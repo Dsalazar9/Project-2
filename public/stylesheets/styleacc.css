@@ -109,11 +109,30 @@ img {
     margin-right: auto;
 }
 
-body {
+/* body {
     background-image: url("https://wallpapertag.com/wallpaper/full/7/6/e/591851-top-cafe-wallpaper-1920x1200-for-iphone-7.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+} */
+
+#video_wrapper video {
+    position: fixed;
+    top: 50%; left: 50%;
+    z-index: 1;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+
+#wrapper {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 995px;
+    z-index: 2;
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
