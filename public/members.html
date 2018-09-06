@@ -83,7 +83,7 @@
               <tbody>
                 <tr class="row100 body">
                   <td class="cell100 column1"><img src="./img/image01.jpg" class="img-fluid z-depth-1-half"></td>
-                  <td class="cell100 column2"><span class="badge badge-warning">Yoga</span></td>
+                  <td class="cell100 column2"><span class="badge badge-primary"><font size="2">Mystery</font></span></td>
                   <td class="cell100 column3">9:00 AM - 11:00 AM</td>
                   <td class="cell100 column4">Aaron Chapman</td>
                   <td class="cell100 column5"><button type="button" class="btn btn-success"><i class="fa fa-check" aria-hidden="true"></i>&nbsp;Reading</button></td>
@@ -91,7 +91,7 @@
 
                 <tr class="row100 body">
                   <td class="cell100 column1"><img src="./img/image02.jpg" class="img-fluid z-depth-1-half"></td>
-                  <td class="cell100 column2"><span class="badge badge-warning">Yoga</span></td>
+                  <td class="cell100 column2"><span class="badge badge-warning">Adventure</span></td>
                   <td class="cell100 column3">8:00 AM - 9:00 AM</td>
                   <td class="cell100 column4">Adam Stewart</td>
                   <td class="cell100 column5"><button type="button" class="btn btn-primary"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;To-Read</button></td>
@@ -107,7 +107,35 @@
               </tbody>
             </table>
           </div>
+<!--Pagination-->
+<nav aria-label="pagination example">
+  <ul class="pagination pagination-circle pg-red pagination justify-content-center ">
 
+    <!--Arrow left-->
+    <li class="page-item disabled">
+      <a class="page-link" href="#" aria-label="Previous">
+        <span aria-hidden="true">&laquo;</span>
+        <span class="sr-only">Previous</span>
+      </a>
+    </li>
+
+    <li class="page-item active">
+      <a class="page-link" href="#">1 <span class="sr-only">(current)</span></a>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item"><a class="page-link" href="#">4</a></li>
+    <li class="page-item"><a class="page-link" href="#">5</a></li>
+
+    <li class="page-item">
+      <a class="page-link" href="#" aria-label="Next">
+        <span aria-hidden="true">&raquo;</span>
+        <span class="sr-only">Next</span>
+      </a>
+    </li>
+  </ul>
+</nav>
+<!-- end of pagination -->
         </div>
       </div>
     </div>
@@ -120,10 +148,10 @@
           <thead>
             <tr class="row100 head">
               <th class="cell100 column1"><i class="fa fa-navicon" aria-hidden="true"></i>&nbsp;Class name</th>
-              <th class="cell100 column2">Type</th>
-              <th class="cell100 column3">Hours</th>
-              <th class="cell100 column4">Trainer</th>
-              <th class="cell100 column5">Spots</th>
+              <th class="cell100 column2"><i class="fa fa-sort" aria-hidden="true"></i>&nbsp;Type</th>
+              <th class="cell100 column3"><i class="fa fa-sort" aria-hidden="true"></i>&nbsp;Hours</th>
+              <th class="cell100 column4"><i class="fa fa-calendar-check-o" aria-hidden="true"></i>&nbsp;Trainer</th>
+              <th class="cell100 column5"><i class="fa fa-line-chart" aria-hidden="true"></i>&nbsp;Spots</th>
             </tr>
           </thead>
         </table>
@@ -157,6 +185,34 @@
           </tbody>
         </table>
       </div>
+      <!--Pagination-->
+      <nav aria-label="pagination example">
+        <ul class="pagination pagination-circle pg-blue pagination justify-content-center ">
+      
+          <!--Arrow left-->
+          <li class="page-item disabled">
+            <a class="page-link" href="#" aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+              <span class="sr-only">Previous</span>
+            </a>
+          </li>
+      
+          <li class="page-item active">
+            <a class="page-link" href="#">1 <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="page-item"><a class="page-link" href="#">2</a></li>
+          <li class="page-item"><a class="page-link" href="#">3</a></li>
+          <li class="page-item"><a class="page-link" href="#">4</a></li>
+          <li class="page-item"><a class="page-link" href="#">5</a></li>
+      
+          <li class="page-item">
+            <a class="page-link" href="#" aria-label="Next">
+              <span aria-hidden="true">&raquo;</span>
+              <span class="sr-only">Next</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
     </div>
   </div>
   </div>
