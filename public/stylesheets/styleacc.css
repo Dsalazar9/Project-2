@@ -94,10 +94,10 @@ form.login {
 }
 body {
   background: #76b852; /* fallback for old browsers */
-  background: -webkit-linear-gradient(right, #0000A0, #0000A0);
-  background: -moz-linear-gradient(right, #0000A0, #0000A0);
-  background: -o-linear-gradient(right, #0000A0, #0000A0);
-  background: linear-gradient(to left, #0000A0, #0000A0);
+  background: -webkit-linear-gradient(right, #FFFFFF, #FFFFFF);
+  background: -moz-linear-gradient(right, #FFFFFF, #FFFFFF);
+  background: -o-linear-gradient(right, #FFFFFF, #FFFFFF);
+  background: linear-gradient(to left, #FFFFFF, #FFFFFF);
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
